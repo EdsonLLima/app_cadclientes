@@ -6,3 +6,4 @@
 - TypeScript
 - eslint
 - Tailwind
+- react-icon
