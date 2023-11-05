@@ -1,5 +1,9 @@
 # App de estudos para enteder o uso da API
 
+<p align="left">
+	<img alt="Telas do projeto" src="./telas.png" widht="80%">
+</p>
+
 ## Backend com NodeJS e MongoDB
 - Vamos testar um cadastro com banco de dados online usando o NodeJS
 ### Tecnologias usadas:
